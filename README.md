@@ -15,4 +15,4 @@ var ILSM_class= ee.Image("projects/ee-nirdeshsharmanith1/assets/ILSM")
 var ILSM_probability=ee.Image("projects/ee-nirdeshsharmanith1/assets/ILSM_probability")  
 ````
 ## The Google Earth Engine code for visualizing ILSM
-https://code.earthengine.google.com/d12776e87f52351d7a90fe1bab41ffa2
+https://hydrosense.users.earthengine.app/view/ilsm
